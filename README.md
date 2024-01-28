@@ -4,8 +4,10 @@ The goal of the project is to construct an intelligent agent that will learn to 
 
 Two different models have been created to achieve this:
 
-1. Logistic Regression
+1. LR (Logistic Regression)
 2. CNN (Convolutional Neural Network)
+
+
 At the end, we will compare the results of these two models
 
 # Dataset
